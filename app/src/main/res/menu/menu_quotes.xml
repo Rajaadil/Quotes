@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Today"
+    android:id="@+id/Today"
+    android:icon="@drawable/ic_today_black_24dp">
+</item>
+    <item android:title="Random"
+        android:id="@+id/Random"
+        android:icon="@drawable/ic_pie_chart_outlined_black_24dp">
+
+    </item>
+    <item android:title="previous"
+        android:id="@+id/previous"
+        android:icon="@drawable/ic_loop_black_24dp">
+    </item>
+</menu>
